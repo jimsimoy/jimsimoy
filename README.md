@@ -88,23 +88,6 @@ Full work history, client projects, and case studies: **[boringworker.com/p/jims
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jimsimoy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jimsimoy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=jimsimoy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jimsimoy&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jimsimoy&layout=compact&hide_border=true&bg_color=00000000&langs_count=8" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimsimoy&layout=compact&hide_border=true&langs_count=8" />
-  </picture>
-</div>
-
----
-
 <div align="center">
 
   **Full portfolio, work history & case studies:** [boringworker.com/p/jimsimoy](https://boringworker.com/p/jimsimoy)
