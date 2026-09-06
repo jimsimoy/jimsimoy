@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=200&section=header&text=Jan%20Ivan%20Simoy&fontSize=42&fontColor=c9d1d9&animation=fadeIn&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%26%20Agentic%20AI%20Developer&descSize=16&descColor=8b949e&descAlignY=55" width="100%" />
+# Jan Ivan Simoy
 
-  <br/>
+**Senior Full Stack Developer & Agentic AI Developer**
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://boringworker.com/p/jimsimoy)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-ivan-simoy-78a93932/)
@@ -91,7 +91,5 @@ Full work history, client projects, and case studies: **[boringworker.com/p/jims
 <div align="center">
 
   **Full portfolio, work history & case studies:** [boringworker.com/p/jimsimoy](https://boringworker.com/p/jimsimoy)
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=100&section=footer" width="100%" />
 
 </div>
