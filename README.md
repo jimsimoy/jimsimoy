@@ -40,6 +40,12 @@ Full work history, client projects, and case studies: **[boringworker.com/p/jims
     <sub><b>wordpress-mcp</b></sub>
   </a>
 </td>
+<td align="center" width="20%">
+  <a href="https://github.com/jimsimoy/admob-mcp">
+    <img src="https://img.shields.io/badge/📱-AdMob-58A6FF?style=flat-square" /><br/>
+    <sub><b>admob-mcp</b></sub>
+  </a>
+</td>
 </tr>
 </table>
 
@@ -55,6 +61,7 @@ Full work history, client projects, and case studies: **[boringworker.com/p/jims
 |---------|-------|-------------|
 | [**appstore-connect-mcp**](https://github.com/jimsimoy/appstore-connect-mcp) | Python | MCP server for a focused, safety-conscious slice of the App Store Connect API — apps, TestFlight, and version lifecycle |
 | [**wordpress-mcp**](https://github.com/jimsimoy/wordpress-mcp) | Python | MCP server for WordPress site management — users, posts, media, ACF, and writable Elementor page layouts |
+| [**admob-mcp**](https://github.com/jimsimoy/admob-mcp) | Python | MCP server for the Google AdMob API — accounts, apps, ad units, and network/mediation performance reports |
 
 ### Automation & DevOps
 
