@@ -60,11 +60,11 @@ Full work history, client projects, and case studies: **[boringworker.com/p/jims
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**automated-server-backup-to-gdrive**](https://github.com/jimsimoy/automated-server-backup-to-gdrive) | Python | Scheduled server backups — CouchDB/MariaDB/MySQL-aware, Google Drive upload, multi-channel alerting |
-| [**automation-parsing-large-emails**](https://github.com/jimsimoy/automation-parsing-large-emails) | Python | Gmail API + Google Cloud Storage service that rescues large inbound emails that Gmail/SendGrid Inbound Parse drop |
+| [**server-backup-gdrive**](https://github.com/jimsimoy/server-backup-gdrive) | Python | Scheduled server backups — CouchDB/MariaDB/MySQL-aware, Google Drive upload, multi-channel alerting |
+| [**large-email-parser**](https://github.com/jimsimoy/large-email-parser) | Python | Gmail API + Google Cloud Storage service that rescues large inbound emails that Gmail/SendGrid Inbound Parse drop |
 | [**docker-ollama**](https://github.com/jimsimoy/docker-ollama) | Docker | Self-hosted Ollama with reverse-proxy auth gating and cloud/local model switching |
 | [**uptime-web-checker**](https://github.com/jimsimoy/uptime-web-checker) | Python | Zero-dependency uptime monitor with Telegram alerting and daily summary reports |
-| [**website-keyword-scraper**](https://github.com/jimsimoy/website-keyword-scraper) | Python | Keyword-occurrence scraper across URL lists, with PDF/CSV export |
+| [**keyword-scraper**](https://github.com/jimsimoy/keyword-scraper) | Python | Keyword-occurrence scraper across URL lists, with PDF/CSV export |
 
 ---
 
