@@ -72,6 +72,7 @@ Full work history, client projects, and case studies: **[boringworker.com/p/jims
 | [**docker-ollama**](https://github.com/jimsimoy/docker-ollama) | Docker | Self-hosted Ollama with reverse-proxy auth gating and cloud/local model switching |
 | [**uptime-web-checker**](https://github.com/jimsimoy/uptime-web-checker) | Python | Zero-dependency uptime monitor with Telegram alerting and daily summary reports |
 | [**keyword-scraper**](https://github.com/jimsimoy/keyword-scraper) | Python | Keyword-occurrence scraper across URL lists, with PDF/CSV export |
+| [**claude-skills**](https://github.com/jimsimoy/claude-skills) | Python | Original Claude Code skills — video understanding, offline transcription, autonomous build loops, visual QA scoring |
 
 ---
 
