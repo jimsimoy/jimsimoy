@@ -67,6 +67,7 @@ Full work history, client projects, and case studies: **[boringworker.com/p/jims
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [**docker-openclaw-deployment**](https://github.com/jimsimoy/docker-openclaw-deployment) | Docker | Self-hosted, persistent AI agent deployment — identity, memory, and skills survive container rebuilds and server migrations |
 | [**server-backup-gdrive**](https://github.com/jimsimoy/server-backup-gdrive) | Python | Scheduled server backups — CouchDB/MariaDB/MySQL-aware, Google Drive upload, multi-channel alerting |
 | [**large-email-parser**](https://github.com/jimsimoy/large-email-parser) | Python | Gmail API + Google Cloud Storage service that rescues large inbound emails that Gmail/SendGrid Inbound Parse drop |
 | [**docker-ollama**](https://github.com/jimsimoy/docker-ollama) | Docker | Self-hosted Ollama with reverse-proxy auth gating and cloud/local model switching |
