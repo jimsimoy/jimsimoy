@@ -52,6 +52,12 @@ Full work history, client projects, and case studies: **[boringworker.com/p/jims
     <sub><b>cloudflare-mcp</b></sub>
   </a>
 </td>
+<td align="center" width="20%">
+  <a href="https://github.com/jimsimoy/n8n-mcp">
+    <img src="https://img.shields.io/badge/🔀-n8n-58A6FF?style=flat-square" /><br/>
+    <sub><b>n8n-mcp</b></sub>
+  </a>
+</td>
 </tr>
 </table>
 
@@ -69,6 +75,7 @@ Full work history, client projects, and case studies: **[boringworker.com/p/jims
 | [**wordpress-mcp**](https://github.com/jimsimoy/wordpress-mcp) | Python | MCP server for WordPress site management — users, posts, media, ACF, and writable Elementor page layouts |
 | [**admob-mcp**](https://github.com/jimsimoy/admob-mcp) | Python | MCP server for the Google AdMob API — accounts, apps, ad units, and network/mediation performance reports |
 | [**cloudflare-mcp**](https://github.com/jimsimoy/cloudflare-mcp) | Python | MCP server for the Cloudflare API — zone and DNS record management |
+| [**n8n-mcp**](https://github.com/jimsimoy/n8n-mcp) | Python | MCP server for n8n over HTTPS — list/inspect workflows, flip them active/inactive, and read execution history, behind a bearer-token auth boundary |
 
 ### Automation & DevOps
 
