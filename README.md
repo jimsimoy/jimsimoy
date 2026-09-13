@@ -28,34 +28,54 @@ Full work history, client projects, and case studies: **[boringworker.com/p/jims
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="25%">
   <a href="https://github.com/jimsimoy/appstore-connect-mcp">
     <img src="https://img.shields.io/badge/🍎-App_Store-58A6FF?style=flat-square" /><br/>
     <sub><b>appstore-connect-mcp</b></sub>
   </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="25%">
   <a href="https://github.com/jimsimoy/wordpress-mcp">
     <img src="https://img.shields.io/badge/📝-WordPress-58A6FF?style=flat-square" /><br/>
     <sub><b>wordpress-mcp</b></sub>
   </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="25%">
   <a href="https://github.com/jimsimoy/admob-mcp">
     <img src="https://img.shields.io/badge/📱-AdMob-58A6FF?style=flat-square" /><br/>
     <sub><b>admob-mcp</b></sub>
   </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="25%">
   <a href="https://github.com/jimsimoy/cloudflare-mcp">
     <img src="https://img.shields.io/badge/☁️-Cloudflare-58A6FF?style=flat-square" /><br/>
     <sub><b>cloudflare-mcp</b></sub>
   </a>
 </td>
-<td align="center" width="20%">
+</tr>
+<tr>
+<td align="center" width="25%">
   <a href="https://github.com/jimsimoy/n8n-mcp">
     <img src="https://img.shields.io/badge/🔀-n8n-58A6FF?style=flat-square" /><br/>
     <sub><b>n8n-mcp</b></sub>
+  </a>
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/jimsimoy/mailchimp-mcp">
+    <img src="https://img.shields.io/badge/🐒-Mailchimp-58A6FF?style=flat-square" /><br/>
+    <sub><b>mailchimp-mcp</b></sub>
+  </a>
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/jimsimoy/google-cloud-services-mcp">
+    <img src="https://img.shields.io/badge/📄-Google_Workspace-58A6FF?style=flat-square" /><br/>
+    <sub><b>google-cloud-services-mcp</b></sub>
+  </a>
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/jimsimoy/gmail-mcp">
+    <img src="https://img.shields.io/badge/✉️-Gmail-58A6FF?style=flat-square" /><br/>
+    <sub><b>gmail-mcp</b></sub>
   </a>
 </td>
 </tr>
@@ -76,6 +96,9 @@ Full work history, client projects, and case studies: **[boringworker.com/p/jims
 | [**admob-mcp**](https://github.com/jimsimoy/admob-mcp) | Python | MCP server for the Google AdMob API — accounts, apps, ad units, and network/mediation performance reports |
 | [**cloudflare-mcp**](https://github.com/jimsimoy/cloudflare-mcp) | Python | MCP server for the Cloudflare API — zone and DNS record management |
 | [**n8n-mcp**](https://github.com/jimsimoy/n8n-mcp) | Python | MCP server for n8n over HTTPS — list/inspect workflows, flip them active/inactive, and read execution history, behind a bearer-token auth boundary |
+| [**mailchimp-mcp**](https://github.com/jimsimoy/mailchimp-mcp) | Python | MCP server for the full Mailchimp Marketing API — 322 tools generated from Mailchimp's own OpenAPI spec, gated behind three access levels (read-only by default) |
+| [**google-cloud-services-mcp**](https://github.com/jimsimoy/google-cloud-services-mcp) | Python | MCP server for Google Docs, Sheets, and Drive via a service account — writes real headings, bullet lists, and native bordered tables to a Doc, not just raw text |
+| [**gmail-mcp**](https://github.com/jimsimoy/gmail-mcp) | Python | MCP server for the Gmail API — search, read, draft, and send, gated behind three access levels (read-only by default) |
 
 ### Automation & DevOps
 
